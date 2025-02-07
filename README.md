@@ -1,6 +1,8 @@
 # bbdml
 Maximum Likelihood for the Beta-binomial Distribution Use bbdml (corncob) With (In) R Software
 
+https://www.youtube.com/watch?v=zxv-S8Dtsrk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
